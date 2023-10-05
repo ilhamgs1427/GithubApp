@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">Repositories:</string>
+    <string name="follower">followers </string>
+    <string name="following">following</string>
+    <string name="value">99</string>
+    <string name="detail_user">Detail User</string>
+    <string name="not_found">Not Found</string>
+    <string name="account">Akun GitHub</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan nama</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
